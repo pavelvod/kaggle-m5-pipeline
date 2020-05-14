@@ -18,6 +18,6 @@ how to run:
 - run luigi daemon in cmd `luigid`
 - run tasks.py
 - in your browser navigate to `http://localhost:8082/` and you should see something like:
-![luigi example](pipeline example.png)
+![luigi example](https://github.com/pavelvod/kaggle-m5-pipeline/blob/master/pipeline%20example.png)
 
 Code is mostly uncommented due to lack of spare time, sorry about that.
